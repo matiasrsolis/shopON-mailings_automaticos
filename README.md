@@ -1,3 +1,4 @@
+<html>
 # shopON-mailings_automaticos
 Mailings automáticos para ShopON, marketplace de Fortín Maure S.A.
 
@@ -14,3 +15,4 @@ Mailings automáticos para ShopON, marketplace de Fortín Maure S.A.
 <img src"imgs/shopon_mailings-automaticos-13">
 <img src"imgs/shopon_mailings-automaticos-14">
 <img src"imgs/shopon_mailings-automaticos-15">
+</html>
